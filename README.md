@@ -1,4 +1,4 @@
-# NovaBank – Digital Banking Platform
+# Zorvanta – Digital Banking Platform
 
 Full-stack digital banking web application: **Angular** frontend + **Spring Boot 3 / Spring Cloud** backend, **PostgreSQL**, **Redis**, **Kafka**.
 
